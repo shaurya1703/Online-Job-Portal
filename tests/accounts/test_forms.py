@@ -9,11 +9,11 @@ class TestEmployeeRegistrationForm(TestCase):
 
     def setUp(self) -> None:
         self.valid_user = {
-            "first_name": "Manjurul",
-            "last_name": "Hoque",
+            "first_name": "Shauyra",
+            "last_name": "17",
             "role": "employee",
             "gender": "male",
-            "email": "rumi1@gmail.com",
+            "email": "shauryachak17@gmail.com",
             "password1": "123456",
             "password2": "123456",
         }
@@ -78,8 +78,8 @@ class TestEmployerRegistrationForm(TestCase):
 
     def setUp(self) -> None:
         self.valid_user = {
-            "first_name": "John",
-            "last_name": "Doe",
+            "first_name": "Shivam   
+            "last_name": "Sahu"
             "email": "employer@gmail.com",
             "password1": "123456",
             "password2": "123456",
