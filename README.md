@@ -16,7 +16,7 @@
     <img alt="watchers" src="https://img.shields.io/github/watchers/shaurya1703/django-job-portal?style=social"/>
     <img alt="github Actions" src="https://github.com/shaurya1703/django-job-portal/workflows/job-portal/badge.svg"/>
 </p>
-
+zz
 Live: [Demo](https://django-job.herokuapp.com/)
 
 Used Tech Stack
