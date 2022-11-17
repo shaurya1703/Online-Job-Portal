@@ -14,7 +14,7 @@ class TestCreateJobForm(TestCase):
             "title": "Junior Software Engineer",
             "description": "Looking for Python developer",
             "salary": 35000,
-            "location": "Dhaka, Bangladesh",
+            "location": "Uttarpradesh, India",
             "type": "1",
             "category": "web-development",
             "last_date": datetime.now() + timedelta(days=30),
@@ -23,8 +23,8 @@ class TestCreateJobForm(TestCase):
             "website": "www.devsoft.com",
         }
         self.employer = {
-            "first_name": "John",
-            "last_name": "Doe",
+            "first_name": "Shivam",
+            "last_name": "Sahu",
             "email": "employer@gmail.com",
             "role": "employer",
             "password": "123456",
